@@ -1,9 +1,11 @@
-asciinema
+curl
+fish
+ghq
 git
-tig
-mas
-wget
+github-nippou
 hub
-hugo
-yarn
+mas
 rbenv
+tig
+watchman
+wget
